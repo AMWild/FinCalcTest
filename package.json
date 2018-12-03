@@ -1,0 +1,12 @@
+{
+  "name": "FinCalculator",
+  "version": "0.0.0",
+  "description": "Financial Calculator conversion example",
+  "main": "FinCalculator.js",
+  "author": {
+    "name": "Monty Wild"
+  },
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}

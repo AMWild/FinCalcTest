@@ -1,0 +1,7 @@
+{"Tax": [
+{"ULimit":0,"Rate":0,"Carry":0},
+{"ULimit":18200,"Rate":0.19,"Carry":0},
+{"ULimit":37000,"Rate":0.325,"Carry":0},
+{"ULimit":87000,"Rate":0.37,"Carry":0},
+{"ULimit":180000,"Rate":0.45,"Carry":0}
+]}
